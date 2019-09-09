@@ -18,3 +18,5 @@ void flash_erase_all(void);
 void flash_read_page(uint16_t page_id, uint8_t *buffer, size_t len);
 void flash_write_page(uint16_t page_id, uint8_t *buffer, size_t len, uint8_t erase_first);
 ```
+
+![at45db041x](./at45db041x.jpg)<br>
